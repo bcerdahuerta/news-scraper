@@ -1,0 +1,4 @@
+Links = //h2/a/@href
+Title = //div[@class="mb-auto"]/h2/a/text()
+Summary = //div[@class="lead"]/p/text()
+Content = //div[@class="html-content"]/p[not(@class)]/text()

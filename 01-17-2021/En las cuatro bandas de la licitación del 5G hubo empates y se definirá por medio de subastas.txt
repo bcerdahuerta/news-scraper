@@ -1,0 +1,14 @@
+En las cuatro bandas de la licitación del 5G hubo empates y se definirá por medio de subastas
+
+La autoridad comunicó a Borealnet, Claro, Entel, Movistar y Wom que empataron en las ofertas por las bandas de 700 MHz, AWS y 3,5 GHz
+
+Tras haber recibido ofertas a mediados de noviembre, la Subsecretaría de Telecomunicaciones (Subtel), encabezada por Pamela Gidi, informó que en tres de las cuatro bandas que componen la licitación de 5G hubo empate, por lo que se procederá a hacer subastas.
+La autoridad comunicó a Borealnet, Claro, Entel, Movistar y Wom que empataron en las ofertas que realizaron para las bandas de 700 MHz, AWS y 3.5 GHz, razón por la cual su adjudicación se definirá bajo el modelo de subasta económica en sobre cerrado, detalló en un documento.
+“En dichos concursos públicos se observa que las compañías postulantes alcanzaron el umbral mínimo de 90 puntos, cifra establecida en las bases del concurso para tener derecho a la asignación de la concesión. De esta forma, todas las empresas quedan ubicadas en el primer lugar, pues entre ellas hay una diferencia inferior a los 4 puntos, cifra la cual, de acuerdo con la bases, establece calificar a dos o más postulantes en igualdad de condiciones”, agregó.
+Así, el orden de las subastas de los concursos será por tamaño de bloques. De esta manera, la de 700 MHz (bloque de 20 MHz) se realizará el lunes 08 de febrero, mientras que las subastas de las bandas de AWS (bloque de 30 MHz) y 3.5 GHZ (bloque de 150 MHz) se realizarán el jueves 11 y martes 16 de febrero, respectivamente.
+Con esto, las empresas deberán presentar una oferta económica con sobre cerrado, donde el que pone más recursos se lleva la banda. En el bloque de 700 MHz puede haber un ganador, y en la 3.5 GHz puede haber más adjudicatarios, lo que dependerá de cuánto espectro pidan los operadores, porque la recomendación internacional es contar con al menos 70 MHz por compañía.
+Para el cuarto bloque, el de la banda 26 GHz, que incluía cuatro espacios de 400 MHz, todos los postulantes quedarán con un lugar: Claro, Entel y Wom.
+
+En la banda 700 MHz: Wom obtuvo 99,1608; mientras Borealnet 96,8455.
+En la banda AWS: Wom logró 99,1019; Claro, 97,4519, y Borealnet con 96,3882.
+En la 3,5 GHz: Wom marcó 99,3726; Claro con 98,2021; Movistar con 96,4973; Borealnet con 96,4678 y Entel con 96,4109.
